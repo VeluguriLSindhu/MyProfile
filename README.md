@@ -9,7 +9,7 @@ To run this project, you need to have the following prerequisites installed on y
 
 Follow these steps to set up and install the project:
 1. Clone the repository to your local machine using the following command:
-   **git clone https://github.com/YourUsername/MyExpoProject.git**
+   **git clone https://github.com/VeluguriLSindhu/MyProfile.git**
 2. Navigate to the project directory:
    **cd my-project**
 3. Install the project: 
